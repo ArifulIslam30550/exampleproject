@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.carousel-item{
+  position: relative;
+}
+.carousel-body{
+  position: absolute;
+  left: 40px;
+  top: 50%;
+  color: white;
+
+}
